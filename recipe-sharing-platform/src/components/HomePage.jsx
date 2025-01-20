@@ -1,4 +1,3 @@
-// src/components/HomePage.jsx
 
 import React, { useState, useEffect } from "react";
 import recipeData from "../data.json"; // Importing the JSON directly
